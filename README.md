@@ -1,2 +1,2 @@
-# ai-form-crafter
-FormCrafter is an AI-powered platform that simplifies the process of creating Google Forms
+# AI FormCrafter
+FormCrafter is an AI-powered platform that leverages the power of ChatGPT and simplifies the process of creating Google Forms. FormCraft allows users to create Google Forms by simply describing the requirements of the form. The platform is powered by artificial intelligence that automatically generates the form based on the user's specifications. With FormCraft, users can quickly create professional-looking forms for surveys, feedback, registrations, and more. The platform offers a user-friendly chat based interface that guides users through the process of creating a form, making it easy for even novice users to get started.
